@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DnMRocha
+- 👀 I’m interested in learn programming.
+- 🌱 I’m currently learning programming.
